@@ -1,0 +1,9 @@
+{
+    "name": "ConfigurableFallDamage",
+    "author": "Nameless",
+    "version": "1.0.0",
+    "akiVersion": "3.*.*",
+    "license": "MIT",
+    "devDependencies": {},
+    "main": "src/ConfigurableFallDamage.js"
+}
